@@ -2,9 +2,12 @@ cv:
   name: Fabien Niel
   label: Research Scientist
   email: fabien.niel10@gmail.com
-  location: Paris, France
   image: ""
   summary: Research scientist with experience building and evaluating foundation-model training systems at Mistral AI and developing a production ML system from first implementation through prospective multi-hospital validation at Quantiq. PhD in theoretical physics, with expertise in statistical modelling, noisy time-series data, numerical simulation, and scientific computing.
+
+  address:
+    city: Paris
+    region: France
 
   social_networks:
     - network: LinkedIn
@@ -74,19 +77,16 @@ cv:
         end_date: 2015
 
     Technical expertise:
-      - name: Models & methods
-        icon: fa-solid fa-brain
-        keywords: "Transformers, GQA, RoPE, multimodal models, Mixture-of-Experts, self-supervised learning, DPO, time-series modelling"
+      - label: Models & methods
+        details: Transformers, GQA, RoPE, multimodal models, Mixture-of-Experts, self-supervised learning, DPO, time-series modelling
 
-      - name: Training systems
-        icon: fa-solid fa-microchip
-        keywords: "PyTorch, FSDP, expert parallelism, distributed data pipelines, HPC and cloud GPU environments"
+      - label: Training systems
+        details: PyTorch, FSDP, expert parallelism, distributed data pipelines, HPC and cloud GPU environments
 
-      - name: Scientific computing
-        icon: fa-solid fa-square-root-variable
-        keywords: "Python, numpy, numerical simulation, signal processing, Linux, Git, Docker"
+      - label: Scientific computing
+        details: Python, numpy, numerical simulation, signal processing, Linux, Git, Docker
 
-    Selected publications & patent:
+    Publications:
       - title: Voxtral Realtime
         authors:
           - Mistral AI
