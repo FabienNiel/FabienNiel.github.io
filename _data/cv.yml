@@ -1,7 +1,6 @@
 cv:
   name: Fabien Niel
   label: Research Scientist
-  email: fabien.niel10@gmail.com
   image: ""
   summary: Research scientist with experience building and evaluating foundation-model training systems at Mistral AI and developing a production ML system from first implementation through prospective multi-hospital validation at Quantiq. PhD in theoretical physics, with expertise in statistical modelling, noisy time-series data, numerical simulation, and scientific computing.
 
